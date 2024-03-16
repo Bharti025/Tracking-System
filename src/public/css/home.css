@@ -1,0 +1,39 @@
+
+body{
+    background-color: white;
+}
+
+.box button{
+    margin-left:25%;
+}
+
+.card1{ 
+    justify-items: center;
+    align-items: center;
+    height:35vh;
+    border-radius:4%;
+    border: 3px solid green;
+}
+.card2{
+
+    justify-items: center;
+    align-items: center;
+    height:35vh; 
+    border-radius:4%;
+    border: 3px solid green;
+}
+
+.box{
+    gap:30vh;
+   justify-content: center;
+    display:flex;
+    flex-wrap: wrap;
+    justify-items: center;
+    align-items: center;
+    height:100vh;
+}
+
+
+.btn {
+    justify-items: center;
+}
